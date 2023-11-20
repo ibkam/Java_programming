@@ -2,8 +2,8 @@ package ibkamcodes;
 //Java program that computes means from give inputs
 //Implements Scanner class
 
-import java.util.Scanner;
 
+import java.util.Scanner;
 public class ComputesMeans {
 	//instance variables 
 	 static int sum = 0, count = 0;
